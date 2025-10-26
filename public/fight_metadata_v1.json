@@ -1,0 +1,72 @@
+{
+  "name": "FIGHT",
+  "symbol": "FIGHT",
+  "description": "The official token of the Fight ecosystem — powering the digital economy of combat sports. $FIGHT enables access, rewards, and governance across Fight.ID, community programs, and partner platforms.",
+  "image": "https://assets.fight.foundation/FIGHT_Token_Icon/white_orange_bg/FightCoin1024.jpg",
+  "external_url": "https://fight.id",
+  "attributes": [
+    {
+      "trait_type": "Symbol",
+      "value": "FIGHT"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Type",
+      "value": "SPL Token"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 9
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "10,000,000,000"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Launch Date",
+      "value": "October 2025"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Official Fight Token - Issued by Fight Tech BVI Ltd."
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "B4Ef4SzvDH1ZsfaoDoGcC82xbosPpDAjvASqEjr4THxt",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://assets.fight.foundation/FIGHT_Token_Icon/white_orange_bg/FightCoin256.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://assets.fight.foundation/FIGHT_Token_Icon/white_orange_bg/FightCoin512.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://assets.fight.foundation/FIGHT_Token_Icon/white_orange_bg/FightCoin1024.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://fight.id",
+    "twitter": "https://x.com/JoinFightId",
+    "telegram": "https://t.me/fightfiofficial",
+    "github": "https://github.com/Fight-Foundation",
+    "discord": "https://discord.gg/fightid"
+  },
+  "version": 1
+}
