@@ -42,7 +42,16 @@
     "twitter": "https://x.com/JoinFightId",
     "telegram": "https://t.me/fightfiofficial",
     "github": "https://github.com/Fight-Foundation",
-    "discord": "https://discord.gg/fightid"
+    "discord": "https://discord.gg/fightid",
+    "token_contracts": {
+      "solana_spl": "E6vA3gd7ACf2wYDKYWRPWbvMew62kKAWTyJW6zArmXCs",
+      "layerzero_eid": "30168"
+    },
+    "verification": {
+      "issuer": "Fight Tech BVI Ltd.",
+      "document_uri": "https://read.fight.foundation/token-tech-details/",
+      "version": 2
+    }
   },
   "version": 2
 }
